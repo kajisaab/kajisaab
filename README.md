@@ -41,8 +41,8 @@
 
 <h3>📫 Let's Connect!</h3>
 <ul>
-  <li><strong>LinkedIn:</strong> <a href="YOUR_LINKEDIN_URL">Your LinkedIn Profile</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/Aman-Khadka">Aman-Khadka</a></li>
+  <li><strong>LinkedIn:</strong> <a href="linkedin.com/in/aman-khadka-11a207144">Aman Khadka</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/Aman-Khadka">Kajisaab</a></li>
 </ul>
 
 <p align="center">🚀 <strong>Always eager to learn, build, and collaborate!</strong></p>
